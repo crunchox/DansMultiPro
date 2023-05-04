@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "242717759816",
+    "project_id": "endless-comfort-382918",
+    "storage_bucket": "endless-comfort-382918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242717759816:android:364d3d4930b5dca8dcfb7d",
+        "android_client_info": {
+          "package_name": "com.example.dansmultiprotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242717759816-bp38baq5ko2udui024emlmj3q0ks3vn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dansmultiprotest",
+            "certificate_hash": "e3f10d1be365cb969f5dd67492a47864b269a36f"
+          }
+        },
+        {
+          "client_id": "242717759816-m5pql31bi0s1m0gq4bfg8qdrfr8mb42n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7L5VGzCOjmH9b_cjmXk_8pV803_OP8ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242717759816-m5pql31bi0s1m0gq4bfg8qdrfr8mb42n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
